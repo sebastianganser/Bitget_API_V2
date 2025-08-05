@@ -1,0 +1,287 @@
+Topic: Futures Trading API – Bitget API
+Description: Contains the introductory documentation for Futures trading APIs, including product types and demo trading configurations.
+Target File Name: 0001_Futures_Trading_API.md
+
+Topic: VIP Fee Rate – Bitget API
+Description: Provides API details for retrieving VIP fee rates including levels, deal volumes, asset amounts, fee rates, and withdrawal limits.
+Target File Name: 0002_Market_VIP_Fee_Rate.md
+
+Topic: Get Interest rate history – Bitget API
+Description: Contains full documentation of the endpoint for retrieving interest rate history, including request parameters, HTTP method, rate limits, and detailed response structure.
+Target File Name: 0003_Market_Get_Interest_rate_history.md
+
+Topic: Get Interest Exchange Rate – Bitget API
+Description: Contains the API endpoint documentation for retrieving tiered interest exchange rates on Bitget, including request/response structure and examples.
+Target File Name: 0004_Market_Get_Interest_Exchange_Rate.md
+
+Topic: Get Discount Rate – Bitget API
+Description: Provides details on the API endpoint used to retrieve discount rate tiers for different assets, including request and response parameters and example usage.
+Target File Name: 0005_Market_Get_Discount_Rate.md
+
+Topic: Get Merge Market Depth – Bitget API
+Description: Provides detailed documentation of the merge depth data retrieval endpoint including parameters, response structure, and examples for Bitget trading pairs.
+Target File Name: 0006_Market_Get_Merge_Market_Depth.md
+
+Topic: Get Ticker – Bitget API
+Description: Provides detailed API documentation for retrieving ticker data based on trading pairs and product types, including request/response parameters and examples.
+Target File Name: 0007_Market_Get_Ticker.md
+
+Topic: Get All Tickers – Bitget API
+Description: Detailed documentation on retrieving all ticker data based on a specified product type, including request parameters, response structure, and examples.
+Target File Name: 0008_Market_Get_All_Tickers.md
+
+Topic: Get Recent Transactions – Bitget API
+Description: Contains documentation for the API endpoint to retrieve the latest 100 recent transactions from the Bitget market, including request parameters, response format, and usage example.
+Target File Name: 0009_Market_Get_Recent_Transactions.md
+
+Topic: Get History Transactions – Bitget API
+Description: Provides full documentation of the `/fills-history` endpoint including request structure, parameters, and example responses for retrieving past 7-day transaction records.
+Target File Name: 0010_Market_Get_History_Transactions.md
+
+Topic: Candlestick Data – Bitget API
+Description: Complete documentation of the Get Candlestick Data endpoint in the Bitget API, including HTTP request structure, parameters, data response format, and usage examples.
+Target File Name: 0011_Market_Get_Candlestick_Data.md
+
+Topic: Get Historical Candlestick – Bitget API
+Description: Provides complete documentation for querying historical candlestick (K-line) data from the Bitget API, including parameters, granularity options, and response structure.
+Target File Name: 0012_Market_Get_Historical_Candlestick.md
+
+Topic: Get Historical Index Price Candlestick – Bitget API
+Description: Detailed documentation for retrieving historical K-line candlestick data for contract index prices, including parameters, granularity options, request/response structure, and example queries.
+Target File Name: 0013_Market_Get_Historical_Index_Price_Candlestick.md
+
+Topic: Get Historical Mark Price Candlestick – Bitget API
+Description: Details the endpoint for retrieving historical mark price candlestick (K-line) data, including parameters, sample requests, and expected responses.
+Target File Name: 0014_Market_Get_Historical_Mark_Price_Candlestick.md
+
+Topic: Get Open Interest – Bitget API
+Description: Contains detailed documentation for the 'Get Open Interest' endpoint of the Bitget API, including request structure, parameters, response schema, and example requests.
+Target File Name: 0015_Market_Get_Open_Interest.md
+
+Topic: Get Next Funding Time – Bitget API
+Description: Endpoint documentation for retrieving the next contract funding time and rate period using trading pair and product type.
+Target File Name: 0016_Market_Get_Next_Funding_Time.md
+
+Topic: Get Next Funding Time – Bitget API
+Description: Provides full documentation for retrieving the next funding time and rate settlement cycle of contracts via the Bitget API.
+Target File Name: 0016_Market_Get_Next_Funding_Time.md
+
+Topic: Get Mark/Index/Market Prices – Bitget API
+Description: Contains complete API documentation for retrieving mark, index, and market prices for futures trading pairs on Bitget.
+Target File Name: 0017_Market_Get_Mark_Index_Market_Prices.md
+
+Topic: Get Historical Funding Rates – Bitget API
+Description: Contains full documentation of the historical funding rate query endpoint, including parameters, request/response examples, and HTTP method.
+Target File Name: 0018_Market_Get_Historical_Funding_Rates.md
+
+Topic: Get Current Funding Rate – Bitget API
+Description: Provides detailed documentation on retrieving the current funding rate for a given trading pair and futures product type from Bitget's market API.
+Target File Name: 0019_Market_Get_Current_Funding_Rate.md
+
+Topic: Get Contract OI Limit – Bitget API
+Description: Contains documentation for retrieving futures contract Open Interest (OI) limits, including request parameters, example responses, and rate limits.
+Target File Name: 0020_Market_Get_Contract_OI_Limit.md
+
+Topic: Get Contract Config – Bitget API
+Description: Complete documentation for the endpoint to retrieve contract details such as trading pairs, product types, rate limits, parameters, and example responses.
+Target File Name: 0021_Market_Get_Contract_Config.md
+
+Topic: Get Single Account – Bitget API
+Description: Provides detailed API documentation for retrieving a single account's information using specific trading pair, product type, and margin coin.
+Target File Name: 0022_Account_Get_Single_Account.md
+
+Topic: Get Account List – Bitget API
+Description: Contains the full documentation for the endpoint to retrieve account information based on product type from the Bitget API, including request parameters and JSON response structure.
+Target File Name: 0023_Account_Get_Account_List.md
+
+Topic: Get Subaccount Assets – Bitget API
+Description: Provides details for querying contract asset information for all sub-accounts including request parameters, rate limits, and response schema.
+Target File Name: 0024_Account_Get_Subaccount_Assets.md
+
+Topic: Get USDT-M futures Interest history – Bitget API
+Description: Provides full documentation of the API endpoint to retrieve USDT-M futures interest history, including request structure, parameters, and response details.
+Target File Name: 0025_Account_Get_USDT-M_futures_Interest_history.md
+
+Topic: My Estimated Open Count – Bitget API
+Description: Provides the endpoint details to estimate open count per UID, including required parameters, request and response structure for the Bitget API.
+Target File Name: 0026_Account_My_Estimated_Open_Count.md
+
+Topic: Set Isolated Position Auto Margin – Bitget API
+Description: Provides detailed API documentation for configuring auto margin settings on isolated positions in Bitget's trading environment, including parameters, request examples, and response structure.
+Target File Name: 0027_Account_Set_Isolated_Position_Auto_Margin.md
+
+Topic: Change Leverage – Bitget API
+Description: Contains full documentation on changing leverage settings including endpoint details, parameters, request and response formats for Bitget API.
+Target File Name: 0028_Account_Change_Leverage.md
+
+Topic: Adjust Position Margin – Bitget API
+Description: Documentation of the endpoint for adjusting position margin in isolated margin mode on Bitget, including HTTP request details, parameters, and examples.
+Target File Name: 0029_Account_Adjust_Position_Margin.md
+
+Topic: Set USDT-M Futures Asset Mode – Bitget API
+Description: Provides details on the endpoint to configure asset mode for USDT-Margined Futures in the Bitget API, including parameters, request/response structure, and examples.
+Target File Name: 0030_Account_Set_USDT-M_Futures_Asset_Mode.md
+
+Topic: Change Margin Mode – Bitget API
+Description: Describes the API endpoint for changing margin mode, including request parameters, example requests, and response structure.
+Target File Name: 0031_Account_Change_Margin_Mode.md
+
+Topic: Change Position Mode – Bitget API
+Description: Contains API reference for adjusting futures position modes between one-way and hedge modes in Bitget accounts. Includes request and response structures.
+Target File Name: 0032_Account_Change_Position_Mode.md
+
+Topic: Get Account Bills – Bitget API
+Description: Details the API endpoint for retrieving account billing records within a 90-day range, including parameters, request/response examples, and business types.
+Target File Name: 0033_Account_Get_Account_Bills.md
+
+Topic: Get Position Tier – Bitget API
+Description: Contains full documentation of the endpoint used to retrieve position gradient configurations by trading pair, including parameters, examples, and response structure.
+Target File Name: 0034_Position_Get_Position_Tier.md
+
+Topic: Get Single Position – Bitget API
+Description: Contains full documentation for retrieving position details of a specific symbol, including request/response formats, parameters, and example usage.
+Target File Name: 0035_Position_Get_Single_Position.md
+
+Topic: Get All Positions – Bitget API
+Description: Complete documentation of the "Get All Positions" endpoint under the Bitget API. Includes HTTP method, request/response parameters, usage examples, and response format details.
+Target File Name: 0036_Position_Get_All_Positions.md
+
+Topic: Get Historical Position – Bitget API
+Description: Provides full documentation for the historical position query endpoint including parameters, response structure, and example for the Bitget API.
+Target File Name: 0037_Position_Get_Historical_Position.md
+
+Topic: Place Order – Bitget API
+Description: Contains full documentation for placing orders via the Bitget API, including supported parameters, examples, and order types for both one-way and hedge position modes.
+Target File Name: 0038_Trade_Place_Order.md
+
+Topic: Reversal – Bitget API
+Description: Covers the reversal order mechanism for long and short positions, including mode-specific behavior and parameter details in Bitget's trading API.
+Target File Name: 0039_Trade_Reversal.md
+
+Topic: Batch Order – Bitget API
+Description: Contains full documentation for placing multiple orders via a single API call, including supported parameters, request/response structure, and TP/SL handling.
+Target File Name: 0040_Trade_Batch_Order.md
+
+Topic: Modify Order – Bitget API
+Description: Full documentation for the order modification endpoint in the Bitget API, including request parameters, examples, and response details for modifying existing orders such as size, price, and TP/SL settings.
+Target File Name: 0041_Trade_Modify_Order.md
+
+Topic: Cancel Order – Bitget API
+Description: Full documentation of the endpoint to cancel pending futures orders via Bitget API, including request structure, parameters, and response.
+Target File Name: 0042_Trade_Cancel_Order.md
+
+Topic: Batch Cancel – Bitget API
+Description: Contains full documentation for cancelling orders in batches, including HTTP method, request/response parameters, and example usage for the Bitget API.
+Target File Name: 0043_Trade_Batch_Cancel.md
+
+Topic: Flash Close Position – Bitget API
+Description: Contains full documentation for the Flash Close Position endpoint, including request/response parameters, HTTP request format, and examples for closing positions at market price.
+Target File Name: 0044_Trade_Flash_Close_Position.md
+
+Topic: Get Order Detail – Bitget API
+Description: Provides complete details on retrieving individual order information using the Bitget API, including request parameters, response structure, order statuses, and position modes.
+Target File Name: 0045_Trade_Get_Order_Detail.md
+
+Topic: Get Order Fill Details – Bitget API
+Description: Provides comprehensive API documentation for retrieving order fill details, including request/response parameters, transaction types, position modes, and sample code.
+Target File Name: 0046_Trade_Get_Order_Fill_Details.md
+
+Topic: Get Historical Transaction Details – Bitget API
+Description: Contains full documentation for retrieving historical order fill history, including HTTP request format, request and response parameters, fee details, and sample responses for Bitget's API endpoint.
+Target File Name: 0047_Trade_Get_Historical_Transaction_Details.md
+
+Topic: Get Pending Orders – Bitget API
+Description: Provides complete API documentation for querying all existing pending orders in Bitget, including HTTP request format, parameters, example requests, and response structure.
+Target File Name: 0048_Trade_Get_Pending_Orders.md
+
+Topic: Get History Order – Bitget API
+Description: Complete documentation of the Get History Order endpoint for retrieving past orders on Bitget. Includes request/response parameters, examples, and detailed descriptions of each field.
+Target File Name: 0049_Trade_Get_History_Order.md
+
+Topic: Cancel All Orders – Bitget API
+Description: Full documentation of the API endpoint to cancel all orders on Bitget, including request structure, parameters, and response formatting.
+Target File Name: 0050_Trade_Cancel_All_Orders.md
+
+Topic: Trigger Sub Order – Bitget API
+Description: Provides full documentation for retrieving executed trigger futures orders via API, including request structure, parameters, and response examples.
+Target File Name: 0051_Trigger_Order_Trigger_Sub_Order.md
+
+Topic: Stop-profit and stop-loss plan orders – Bitget API
+Description: Detailed documentation for placing stop-profit and stop-loss plan orders, including all parameters, request/response formats, and examples for the Bitget API.
+Target File Name: 0052_Trigger_Order_Stop-profit_and_stop-loss_plan_orders.md
+
+Topic: Simultaneous Stop-profit and Stop-loss Plan Orders – Bitget API
+Description: Contains full documentation for placing simultaneous take-profit and stop-loss plan orders via Bitget API, including endpoint, parameters, examples, and response structure.
+Target File Name: 0053_Trigger_Order_Simultaneous_Stop-profit_and_stop-loss_plan_orders.md
+
+Topic: Place Trigger Order – Bitget API
+Description: Complete API reference for placing trigger and trailing stop orders on Bitget, including request parameters, examples, and response formats.
+Target File Name: 0054_Trigger_Order_Place_Trigger_Order.md
+
+Topic: Modify the stop-profit and stop-loss plan order – Bitget API
+Description: Details the API endpoint for modifying stop-profit and stop-loss plan orders including request/response structure, parameter details, and examples.
+Target File Name: 0055_Trigger_Order_Modify_the_stop-profit_and_stop-loss_plan_order.md
+
+Topic: Modify Trigger Order – Bitget API
+Description: Documents the endpoint to modify trigger orders including price, TP/SL, and other related parameters in Bitget's futures trading API.
+Target File Name: 0056_Trigger_Order_Modify_Trigger_Order.md
+
+Topic: Get Pending Trigger Order – Bitget API
+Description: Provides API details for querying current pending trigger orders on Bitget, including parameters, request/response formats, and order types.
+Target File Name: 0057_Trigger_Order_Get_Pending_Trigger_Order.md
+
+Topic: Cancel Trigger Order – Bitget API
+Description: Details the endpoint for cancelling trigger orders in the Bitget API, including request parameters, example requests, and expected responses.
+Target File Name: 0058_Trigger_Order_Cancel_Trigger_Order.md
+
+Topic: Get History Trigger Order – Bitget API
+Description: Contains full documentation of the Bitget endpoint to retrieve historical trigger orders, including parameters for filters, response structure, and sample code.
+Target File Name: 0059_Trigger_Order_Get_History_Trigger_Order.md
+
+Topic: Market Channel – Bitget API
+Description: Contains full documentation of the WebSocket Market Channel including parameters for subscription, response, and push data structure with examples.
+Target File Name: 0060_Websocket_Public_Market_Channel.md
+
+Topic: Candlestick Channel – Bitget API
+Description: Full documentation for subscribing to the public market candlestick (kline) WebSocket channel in the Bitget API. Covers subscription, response, and push data format.
+Target File Name: 0061_Websocket_Public_Market_Candlestick_Channel.md
+
+Topic: Depth Channel – Bitget API
+Description: Provides full documentation of the Depth Channel in Bitget's WebSocket API, including subscription mechanisms, update merging, checksum calculation, and data format examples for all depth levels (books, books1, books5, books15).
+Target File Name: 0062_Websocket_Public_Depth_Channel.md
+
+Topic: Public Trade Channel – Bitget API
+Description: Provides full details on subscribing to the public trade WebSocket channel, including request structure, response format, and real-time trade push data for futures instruments on Bitget.
+Target File Name: 0063_Websocket_Public_Public_Trade_Channel.md
+
+Topic: Account Channel – Bitget API
+Description: Contains full documentation on subscribing to the Account WebSocket channel, including request/response formats and data push structure for balance and equity tracking.
+Target File Name: 0064_Websocket_Private_Account_channel.md
+
+Topic: Websocket Private Position Channel – Bitget API
+Description: Documentation for subscribing to and receiving real-time position updates via the Bitget WebSocket API. Includes request/response structures and push data formats.
+Target File Name: 0065_Websocket_Private_Position_Channel.md
+
+Topic: Fill Channel – Bitget API
+Description: Covers the WebSocket channel for order fill events, including request/response parameters and example payloads. It provides real-time updates on trade executions.
+Target File Name: 0066_Websocket_Private_Fill_Channel.md
+
+Topic: Order Channel – Bitget API
+Description: Provides WebSocket subscription and push data format for order-related events including creation, fill, cancellation, and updates across futures product types on Bitget.
+Target File Name: 0067_Websocket_Private_Order_Channel.md
+
+Topic: Trigger Order Channel – Bitget API
+Description: Provides full WebSocket documentation for subscribing to trigger order events including open, cancel, modify, and trigger events for various futures product types.
+Target File Name: 0068_Websocket_Private_Trigger_Order_Channel.md
+
+Topic: History Position Channel – Bitget API
+Description: Provides full documentation of the 'positions-history' WebSocket channel for private position data after positions are closed, including request/response structures and push data format.
+Target File Name: 0069_Websocket_Private_History_Position_Channel.md
+
+Topic: REST API Error Code – Bitget API
+Description: Comprehensive list of error messages, error codes, and HTTP status codes returned by Bitget's REST API for troubleshooting and integration purposes.
+Target File Name: 0070_Error_Code_Rest_API_Error_Code.txt
+
+Topic: WebSocket Error Code – Bitget API
+Description: Lists and explains all possible WebSocket error codes and their corresponding messages used in Bitget's API.
+Target File Name: 0071_Error_Code_Websocket_Error_Code.txt

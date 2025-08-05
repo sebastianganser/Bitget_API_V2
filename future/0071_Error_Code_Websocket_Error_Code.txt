@@ -1,0 +1,15 @@
+WebSocket Error Code
+Error Message	Error Code
+Channel does not exist	30001
+Illegal request	30002
+Invalid op	30003
+User needs to log in	30004
+Login failed	30005
+request too many	30006
+request over limit,connection close	30007
+Invalid ACCESS_KEY	30011
+Invalid ACCESS_PASSPHRASE	30012
+Invalid ACCESS_TIMESTAMP	30013
+Request timestamp expired	30014
+Invalid signature	30015
+Param error	30016
